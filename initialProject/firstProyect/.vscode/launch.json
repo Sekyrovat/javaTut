@@ -37,6 +37,14 @@
         },
         {
             "type": "java",
+            "name": "CodeLens (Launch) - myMethods",
+            "console": "externalTerminal",
+            "request": "launch",
+            "mainClass": "app.myMethods",
+            "projectName": "firstProyect"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - App",
             "request": "launch",
             "mainClass": "app.App",
