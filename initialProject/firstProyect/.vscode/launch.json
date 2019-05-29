@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - myString",
+            "request": "launch",
+            "mainClass": "app.myString",
+            "projectName": "firstProyect"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CharBool",
+            "request": "launch",
+            "mainClass": "app.CharBool",
+            "projectName": "firstProyect"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FloatDouble",
+            "request": "launch",
+            "mainClass": "app.FloatDouble",
+            "projectName": "firstProyect"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ByteShortInt",
+            "request": "launch",
+            "mainClass": "app.ByteShortInt",
+            "projectName": "firstProyect"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hello",
+            "request": "launch",
+            "mainClass": "app.Hello",
+            "projectName": "firstProyect"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "firstProyect"
+        }
+    ]
+}
